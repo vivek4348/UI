@@ -6,7 +6,7 @@ C:\Vivek\Git-Repos-Personal\UI\Demos\Typescript\tsdev>tsc --init --sourceMap --r
 npm i --save-dev typescript
 
 To Run the application 
-1. Run Tranpile with Watch Opnion: type F1 and then type 'Tasks' and select Run Build Task
+1. Run Tranpile with Watch Opnion: type F1 and then type 'Tasks' and select Run Build Task -> Select tsc:Watch
 2. For Runing the application type F5
 
 Reference:
